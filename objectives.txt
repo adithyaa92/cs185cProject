@@ -1,0 +1,21 @@
+NFL Datasets..
+
+What do we want to learn?
+	Draft pick correlation with career length/salary (NFL Draft Outcomes DataSet)
+	University drafted from (NFL Draft Outcomes DataSet)
+	QB performance based on draft pick (NFL Draft Outcomes DataSet)
+	Player play time on the field correlation to injuries (NFL Statistics DataSet)
+	Player position in correlation to injuries (NFL Statistics DataSet)
+
+Tools..
+	Bar Charts/Graphs with Tableau (Vishaal ?)
+	Use python/notebooks to get useful feedback on data (Adithya/Vishaal ?)
+	
+
+Presentation..
+	~5mins	Demo
+	~5mins	Visuals of results
+	~5mins	Conclusions and lessons learned
+
+	
+	
